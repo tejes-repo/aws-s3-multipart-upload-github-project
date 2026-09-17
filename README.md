@@ -259,12 +259,4 @@ Through this project, I learned:
 
 ## 👨‍💻 Author
 
-## 👨‍💻 Author
-
-**Vikas Jagtap**
-
-* GitHub: [github.com/vikasjagtap9696](https://github.com/vikasjagtap9696)
-
----
-
-⭐ If you found this project useful, feel free to explore the repository.
+**P TEJESWAR REDDY**
